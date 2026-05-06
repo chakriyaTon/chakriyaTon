@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Chakriya 👋
 
-<!--
-**chakriyaTon/chakriyaTon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WordPress Developer & IT Student
 
-Here are some ideas to get you started:
+- Building custom WordPress solutions
+- Creating responsive frontend UI
+- Learning React & Flutter
+- Interested in performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+HTML • CSS • JavaScript • PHP • WordPress • Bootstrap • React
+
+---
+
+## 📌 Featured Projects
+
+- Custom WordPress Gallery
+- Hotel Website UI
+- POS System
+- Portfolio Website
+
+---
+
+## 📫 Contact
+
+- Email: tonchakriya1260@gmail.com
