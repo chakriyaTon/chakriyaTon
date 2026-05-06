@@ -1,4 +1,12 @@
-# Hi there 👋 I'm Chakriya
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Chakriya+👋;WordPress+Developer;IT+Student;Learning+React+and+Flutter🚀">
+</p>
+
+---
+
+# 👋 Hi, I'm Chakriya
 
 💻 **WordPress Developer & IT Student**
 
@@ -6,38 +14,70 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ---
 
-## 🛠️ Languages and Tools
+## 🐾 Meet My Coding Companion
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350"/>
+</p>
 
 ---
 
-## 🧩 Frameworks & Design Tools
+## 🛠️ Languages and Tools
 
-### 🚀 Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php\&logoColor=white)
 
-![Ionic](https://img.shields.io/badge/Ionic-blue?style=for-the-badge\&logo=ionic\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
+## 🚀 Frameworks
 
-### 🎨 Design Tools
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+
+---
+
+## 🎨 Design Tools
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge\&logo=canva\&logoColor=white)
-
 
 ---
 
 ## 🌱 Currently Learning
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chakriyaTon&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakriyaTon&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chakriyaTon&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chakriyaTon&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -45,7 +85,7 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://tiktok.com/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tonchakriya1260@gmail.com)
 
 ---
 
