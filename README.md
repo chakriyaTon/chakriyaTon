@@ -2,25 +2,30 @@
 
 ## WordPress Developer & IT Student
 
-- Building custom WordPress solutions
-- Creating responsive frontend UI
+I build modern and responsive websites using WordPress, PHP, HTML, CSS, and JavaScript.
+
+Currently focusing on:
+- Custom WordPress Development
+- Responsive Frontend UI
+- Website SEO Optimization
+- Performance & Speed Optimization
 - Learning React & Flutter
-- Interested in performance optimization
 
 ---
 
 ## 🚀 Tech Stack
 
-HTML • CSS • JavaScript • PHP • WordPress • Bootstrap • React
+HTML • CSS • JavaScript • PHP • WordPress • Bootstrap 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 - Custom WordPress Gallery
-- Hotel Website UI
-- POS System
-- Portfolio Website
+- Hotel & Resort Website UI
+- Responsive Frontend Development
+- Website SEO Optimization
+- WordPress Customization
 
 ---
 
