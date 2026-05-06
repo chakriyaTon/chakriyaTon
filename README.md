@@ -26,9 +26,8 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 ## 🐾 Meet My Coding Companion
 
 <p align="center">
-<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndkdDdha3k1ejZydXFmNm5pY3RjcWVvZXg4YnRrd3AwNDR5N3FveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="350"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndkdDdha3k1ejZydXFmNm5pY3RjcWVvZXg4YnRrd3AwNDR5N3FveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350"/>
 </p>
-
 ---
 
 ## 🛠️ Languages and Tools
