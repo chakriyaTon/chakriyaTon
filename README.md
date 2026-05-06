@@ -14,6 +14,15 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ---
 
+## 🚧 Currently Working On
+
+* 🧩 Customizing my own **WordPress theme template**
+* ⚡ Focusing on **Website Speed & Performance Optimization**
+* 🔍 Improving **SEO structure and search ranking**
+* 🌐 Building modern, responsive WordPress websites
+
+---
+
 ## 🐾 Meet My Coding Companion
 
 <p align="center">
@@ -36,7 +45,6 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 
 ---
 
@@ -44,7 +52,6 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge\&logo=canva\&logoColor=white)
 
 ---
@@ -83,9 +90,9 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ## 📫 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tonchakriya1260@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook\&logoColor=white)]([https://facebook.com/](https://web.facebook.com/chakya.ton))
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/@Tonchakriya)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tonchakriya126@gmail.com)
 
 ---
 
