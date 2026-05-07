@@ -88,10 +88,9 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 ---
 
 ## 📫 Contact
+
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/chakya.ton)
-
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tonchakriya)
-
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonchakriya126@gmail.com)
 
 ---
