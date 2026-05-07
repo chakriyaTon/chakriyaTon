@@ -81,8 +81,7 @@ I build modern and responsive websites using **WordPress, PHP, HTML, CSS, and Ja
 
 ## 👀 Visitor Counter
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=chakriyaTon&color=blue&style=for-the-badge"/>
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=chakriyaTon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
